@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<update>
+<update manifestVersion="1.0.0">
 	<apps>
 		<app id="WDC_SQE_Common">
 			<version>1.0.5</version>
