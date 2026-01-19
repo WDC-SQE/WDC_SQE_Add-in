@@ -2,7 +2,7 @@
 <update manifestVersion="1" manifestDate="2026-01-19">
 	<apps>
 		<app id="WDC_SQE_Common">
-			<version>2.8.2</version>
+			<version>2.8.3</version>
 			<url_app>https://sharedspace.sharepoint.com/sites/NakazawaVBA/Shared%20Documents/VBA/Common/PowerPoint/1.%20Program%20Add-in</url_app>
 			<url_tpl></url_tpl>
 			<url_howto>https://sharedspace.sharepoint.com/sites/NakazawaVBA/Shared%20Documents/VBA/Common/PowerPoint/2.%20Instruction%20How%20to%20Use</url_howto>
