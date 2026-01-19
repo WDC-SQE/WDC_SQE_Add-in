@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<update manifestVersion="1.0.0">
+<update manifestVersion="1" manifestDate="2026-01-19">
 	<apps>
 		<app id="scriptVCSSL">
 			<version>2.2.1</version>
