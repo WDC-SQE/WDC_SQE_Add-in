@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<update>
+	<apps>
+		<app id="Common">
+			<version>1.1.1</version>
+			<url_app>https://sharedspace.sharepoint.com/:f:/r/sites/NakazawaAdobe/Shared%20Documents/Adobe/Photoshop/JavaScript/1.%20Common/JavaScript?csf=1&amp;web=1&amp;e=zkkEov</url_app>
+			<url_tpl></url_tpl>
+			<url_howto>https://wdc.box.com/v/mn-adobe-ps-common-howto</url_howto>
+		</app>
+		<app id="Photomerge">
+			<version>1.1.1</version>
+			<url_app>https://sharedspace.sharepoint.com/:f:/r/sites/RINEARNGraph3D/Shared%20Documents/1.%20Engine%20and%20Script?csf=1&amp;web=1&amp;e=xLhyMu</url_app>
+			<url_tpl></url_tpl>
+			<url_howto>https://wdc.box.com/v/mn-adobe-ps-photomerge-howto</url_howto>
+		</app>
+		<app id="Batch Stack Images per Folder">
+			<version>1.0.0</version>
+			<url_app>https://wdc.box.com/v/mn-adobe-ps-common-js</url_app>
+			<url_tpl></url_tpl>
+			<url_howto>https://wdc.box.com/v/mn-adobe-ps-batchstack-howto</url_howto>
+		</app>
+		<app id="Batch Merge Images per Folder">
+			<version>1.0.0</version>
+			<url_app>https://wdc.box.com/v/mn-adobe-ps-common-js</url_app>
+			<url_tpl></url_tpl>
+			<url_howto>https://wdc.box.com/v/mn-adobe-ps-batchmerge-howto</url_howto>
+		</app>
+	</apps>
+</update>

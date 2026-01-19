@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<update>
+	<apps>
+		<app id="scriptVCSSL">
+			<version>2.2.1</version>
+			<url_app>https://sharedspace.sharepoint.com/:f:/s/RINEARNGraph3D/EpTeDmi4X_1Gpnddkkjm4f4BCk6-H8BnqPHThSrk-T0olg</url_app>
+			<url_tpl>https://sharedspace.sharepoint.com/:f:/s/RINEARNGraph3D/EpTeDmi4X_1Gpnddkkjm4f4BCk6-H8BnqPHThSrk-T0olg</url_tpl>
+			<url_howto>https://sharedspace.sharepoint.com/:f:/s/RINEARNGraph3D/Evv-EbIFqzlFkLVFgIX9YdwBUKsZ6KsT2_wC_lCvlB2Oyw</url_howto>
+		</app>
+		<app id="engineVCSSL">
+			<version>3.4.26</version>
+			<url_app>https://sharedspace.sharepoint.com/:f:/s/RINEARNGraph3D/EpTeDmi4X_1Gpnddkkjm4f4BCk6-H8BnqPHThSrk-T0olg</url_app>
+			<url_tpl>https://sharedspace.sharepoint.com/:f:/s/RINEARNGraph3D/EpTeDmi4X_1Gpnddkkjm4f4BCk6-H8BnqPHThSrk-T0olg</url_tpl>
+			<url_howto>https://sharedspace.sharepoint.com/:f:/s/RINEARNGraph3D/Evv-EbIFqzlFkLVFgIX9YdwBUKsZ6KsT2_wC_lCvlB2Oyw</url_howto>
+		</app>
+	</apps>
+</update>

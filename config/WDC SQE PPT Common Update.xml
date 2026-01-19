@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<update>
+	<apps>
+		<app id="WDC_SQE_Common">
+			<version>2.8.2</version>
+			<url_app>https://sharedspace.sharepoint.com/sites/NakazawaVBA/Shared%20Documents/VBA/Common/PowerPoint/1.%20Program%20Add-in</url_app>
+			<url_tpl></url_tpl>
+			<url_howto>https://sharedspace.sharepoint.com/sites/NakazawaVBA/Shared%20Documents/VBA/Common/PowerPoint/2.%20Instruction%20How%20to%20Use</url_howto>
+		</app>
+		<app id="WDC_SQE_Mech_Component_Review">
+			<version>6.1.1</version>
+			<url_app>https://sharedspace.sharepoint.com/sites/NakazawaVBA/Shared%20Documents/VBA/Common/PowerPoint/1.%20Program%20Add-in</url_app>
+			<url_tpl>https://wdc.box.com/v/mn-vba-mechcomprvw-tpl</url_tpl>
+			<url_howto>https://wdc.box.com/v/mn-vba-mechcomprvw-howto</url_howto>
+			<url_howto_mtbnewline>https://wdc.box.com/v/mn-mtb-newline</url_howto_mtbnewline>
+		</app>
+		<app id="WDC_SQE_MN">
+			<version>1.0.0</version>
+			<url_app>https://wdc.box.com/v/mn-vba-pptcommon-addin</url_app>
+			<url_tpl></url_tpl>
+			<url_howto>https://wdc.box.com/v/mn-vba-pptmn-howto</url_howto>
+		</app>
+		<app id="WDC_SQE_TrueOrFalse">
+			<version>1.0.0</version>
+			<url_app>https://wdc.box.com/v/mn-vbap-trueorfalse-addin</url_app>
+			<url_tpl>https://wdc.box.com/v/mn-vbap-trueorfalse-tpl</url_tpl>
+			<url_howto>https://wdc.box.com/v/mn-vbap-trueorfalse-howto</url_howto>
+		</app>
+	</apps>
+</update>

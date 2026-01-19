@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<update>
+	<apps>
+		<app id="WDC_SQE_SLDWORKS">
+			<version>1.2.2</version>
+			<url_app>https://sharedspace.sharepoint.com/:f:/r/sites/NakazawaSolidWorks/Shared%20Documents/1.%20Macro%20%26%20Template</url_app>
+			<url_tpl></url_tpl>
+			<url_howto>https://sharedspace.sharepoint.com/:f:/r/sites/NakazawaSolidWorks/Shared%20Documents/2.%20How-to</url_howto>
+		</app>
+	</apps>
+</update>

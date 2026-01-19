@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<update>
+	<apps>
+		<app id="WDC_SQE_Common">
+			<version>1.0.5</version>
+			<url_app>https://sharedspace.sharepoint.com/:f:/r/sites/NakazawaVBA/Shared%20Documents/VBA/Common/Outlook/1.%20Program%20Add-in?csf=1&#38;web=1&#38;e=Wb2A42</url_app>
+			<url_tpl></url_tpl>
+			<url_howto>https://wdc.box.com/v/mn-vba-olcommon-howto</url_howto>
+		</app>
+	</apps>
+</update>

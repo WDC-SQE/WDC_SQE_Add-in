@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<update>
+	<apps>
+		<app id="WDC_SQE_Type_Library">
+			<version>1.4.0.1</version>
+			<url_app>https://sharedspace.sharepoint.com/sites/WDCSQEUser-DefinedExcelFunction</url_app>
+			<url_tpl></url_tpl>
+			<url_howto>https://sharedspace.sharepoint.com/sites/WDCSQEUser-DefinedExcelFunction</url_howto>
+		</app>
+		<app id="WDC_SQE_Common">
+			<version>2.11.2</version>
+			<url_app>https://sharedspace.sharepoint.com/sites/NakazawaVBA/Shared%20Documents/VBA/Common/Excel/1.%20Program%20Add-in</url_app>
+			<url_tpl></url_tpl>
+			<url_howto>https://wdc.box.com/v/mn-vba-xlcommon-howto</url_howto>
+		</app>
+		<app id="HGST_MCE_Common">
+			<version>2.8.1</version>
+			<url_app>https://wdc.box.com/v/mn-vba-xlcommon-addin</url_app>
+			<url_tpl></url_tpl>
+			<url_howto>https://wdc.box.com/v/mn-vba-xlcommon-howto</url_howto>
+		</app>
+		<app id="WDC_SQE_Boxplot">
+			<version>4.0.3</version>
+			<url_app>https://sharedspace.sharepoint.com/sites/NakazawaVBA/Shared%20Documents/VBA/Common/Excel/1.%20Program%20Add-in</url_app>
+			<url_tpl>https://sharedspace.sharepoint.com/:f:/s/NakazawaVBA/EsKG5RhHOsZAmF10977667QBjUxB48MkcejeS2y7A4uwHQ</url_tpl>
+			<url_howto>https://wdc.box.com/v/mn-vba-boxplot-howto</url_howto>
+		</app>
+		<app id="HGST_MCE_Boxplot">
+			<version>3.6.5</version>
+			<url_app>https://wdc.box.com/v/mn-vba-xlcommon-addin</url_app>
+			<url_tpl>https://wdc.box.com/v/mn-vba-boxplot-tpl</url_tpl>
+			<url_howto>https://wdc.box.com/v/mn-vba-boxplot-howto</url_howto>
+		</app>
+		<app id="WDC_SQE_Flatness">
+			<version>2.2.1</version>
+			<url_app>https://sharedspace.sharepoint.com/sites/NakazawaVBA/Shared%20Documents/VBA/Common/Excel/1.%20Program%20Add-in</url_app>
+			<url_tpl></url_tpl>
+			<url_howto>https://wdc.box.com/v/mn-vba-flat-howto</url_howto>
+			<url_vcssl>https://sharedspace.sharepoint.com/sites/RINEARNGraph3D/Shared%20Documents/Forms/AllItems.aspx</url_vcssl>
+		</app>
+		<app id="HGST_MCE_Flatness">
+			<version>2.0.6</version>
+			<url_app>https://wdc.box.com/v/mn-vba-xlcommon-addin</url_app>
+			<url_tpl></url_tpl>
+			<url_howto>https://wdc.box.com/v/mn-vba-flat-howto</url_howto>
+			<url_vcssl>https://wdc.box.com/v/mn-rinearn-vcssl</url_vcssl>
+		</app>
+		<app id="WDC_SQE_Straightness">
+			<version>1.2.1</version>
+			<url_app>https://sharedspace.sharepoint.com/sites/NakazawaVBA/Shared%20Documents/VBA/Common/Excel/1.%20Program%20Add-in</url_app>
+			<url_tpl></url_tpl>
+			<url_howto>https://wdc.box.com/v/mn-vba-straight-howto</url_howto>
+		</app>
+		<app id="WDC_SDE_Straightness">
+			<version>1.0.0</version>
+			<url_app>https://wdc.box.com/v/mn-vba-xlcommon-addin</url_app>
+			<url_tpl></url_tpl>
+			<url_howto>https://wdc.box.com/v/mn-vba-straight-howto</url_howto>
+		</app>
+		<app id="WDC_SQE_DiaProfile">
+			<version>3.0.1</version>
+			<url_app>https://sharedspace.sharepoint.com/sites/NakazawaVBA/Shared%20Documents/VBA/Common/Excel/1.%20Program%20Add-in</url_app>
+			<url_tpl>https://sharedspace.sharepoint.com/:f:/s/NakazawaVBA/EjvVSXCh3KNPoD_Mp9pbYJkBuZmXmAzXIai2EWnkbbUhPw</url_tpl>
+			<url_howto>https://wdc.box.com/v/mn-vba-diaprofile-howto</url_howto>
+		</app>
+		<app id="WDC_SDE_DiaProfile">
+			<version>1.1.2</version>
+			<url_app>https://wdc.box.com/v/mn-vba-xlcommon-addin</url_app>
+			<url_tpl>https://wdc.box.com/v/mn-vba-diaprofile-tpl</url_tpl>
+			<url_howto>https://wdc.box.com/v/mn-vba-diaprofile-howto</url_howto>
+		</app>
+		<app id="WDC_SQE_GageRR">
+			<version>1.0.0</version>
+			<url_app>https://sharedspace.sharepoint.com/sites/NakazawaVBA/Shared%20Documents/VBA/Common/Excel/1.%20Program%20Add-in</url_app>
+			<url_tpl>https://sharedspace.sharepoint.com/:f:/s/NakazawaVBA/Ek17IhkcukxPk2-yyuO58UUBPQqGSDBtQuI44D4rQssUBg</url_tpl>
+			<url_howto>https://wdc.box.com/v/mn-vba-grr-howto</url_howto>
+		</app>
+		<app id="WDC_SQE_Mech_Component_Review_External_Table">
+			<version>6.0.1</version>
+			<url_app>https://sharedspace.sharepoint.com/sites/NakazawaVBA/Shared%20Documents/VBA/Common/Excel/1.%20Program%20Add-in</url_app>
+			<url_tpl>https://sharedspace.sharepoint.com/:f:/s/NakazawaVBA/EgxtWkKSWCZIrXMICNXETYsB127JbwA_dPdABtE1bsdYQA</url_tpl>
+			<url_howto>https://wdc.box.com/v/mn-vba-mechcomprvw-howto</url_howto>
+		</app>
+		<app id="HGST_MCE_Mech_Component_Review_External_Table">
+			<version>5.0.2</version>
+			<url_app>https://wdc.box.com/v/mn-vba-xlcommon-addin</url_app>
+			<url_tpl>https://wdc.box.com/v/mn-vba-mechcomprvw-tpl</url_tpl>
+			<url_howto>https://wdc.box.com/v/mn-vba-mechcomprvw-howto</url_howto>
+		</app>
+		<app id="WDC_SQE_TrueOrFalse_ExternalTable">
+			<version>1.0.0</version>
+			<url_app>https://wdc.box.com/v/mn-vbap-trueorfalse-addin</url_app>
+			<url_tpl>https://wdc.box.com/v/mn-vbap-trueorfalse-tpl</url_tpl>
+			<url_howto></url_howto>
+		</app>
+		<app id="WDC_SDE_TrueOrFalse_ExternalTable">
+			<version>1.0.0</version>
+			<url_app>https://wdc.box.com/v/mn-vbap-trueorfalse-addin</url_app>
+			<url_tpl>https://wdc.box.com/v/mn-vbap-trueorfalse-tpl</url_tpl>
+			<url_howto></url_howto>
+		</app>
+		<app id="VCSSL">
+			<version>1.0.0</version>
+			<url_app>https://sharedspace.sharepoint.com/sites/RINEARNGraph3D/Shared%20Documents/Forms/AllItems.aspx</url_app>
+			<url_tpl>https://sharedspace.sharepoint.com/sites/RINEARNGraph3D/Shared%20Documents/Forms/AllItems.aspx</url_tpl>
+			<url_howto>https://wdc.box.com/v/mn-vba-flat-vcssl</url_howto>
+		</app>
+	</apps>
+</update>
