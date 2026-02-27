@@ -2,7 +2,7 @@
 <update manifestVersion="1" manifestDate="2026-01-19">
 	<apps>
 		<app id="Common">
-			<version>1.1.1</version>
+			<version>1.1.2</version>
 			<url_app>https://sharedspace.sharepoint.com/:f:/r/sites/NakazawaAdobe/Shared%20Documents/Adobe/Photoshop/JavaScript/1.%20Common/JavaScript?csf=1&amp;web=1&amp;e=zkkEov</url_app>
 			<url_tpl></url_tpl>
 			<url_howto>https://wdc.box.com/v/mn-adobe-ps-common-howto</url_howto>
