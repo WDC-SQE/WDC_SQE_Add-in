@@ -2,7 +2,7 @@
 <update manifestVersion="1" manifestDate="2026-06-12">
 	<apps>
 		<app id="WDC_SQE_SLDWORKS">
-			<version>999.9.9.9</version>
+			<version>1.5.0.0</version>
 			<url_app>https://sharedspace.sharepoint.com/:f:/r/sites/NakazawaSolidWorks/Shared%20Documents/1.%20Add-in</url_app>
 			<url_tpl>https://sharedspace.sharepoint.com/:f:/r/sites/NakazawaSolidWorks/Shared%20Documents/2.%20Template</url_tpl>
 			<url_howto>https://sharedspace.sharepoint.com/:f:/r/sites/NakazawaSolidWorks/Shared%20Documents/3.%20How-to</url_howto>
