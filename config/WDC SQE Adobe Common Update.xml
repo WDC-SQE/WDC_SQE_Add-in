@@ -11,7 +11,7 @@
 			<version>1.1.1</version>
 			<url_app>https://sharedspace.sharepoint.com/:f:/r/sites/NakazawaAdobe/Shared%20Documents/Adobe/Photoshop/JavaScript/1.%20Common/JavaScript?csf=1&amp;web=1&amp;e=zkkEov</url_app>
 			<url_tpl></url_tpl>
-			<url_howto>https://sharedspace.sharepoint.com/:f:/r/sites/NakazawaAdobe/Shared%20Documents/Adobe/Photoshop/JavaScript/2.%20Photomerge/How%20to%20Use?d=wb7269645df274515af652f803209ad10&csf=1&web=1&e=DbNm5I</url_howto>
+			<url_howto>https://sharedspace.sharepoint.com/:f:/r/sites/NakazawaAdobe/Shared%20Documents/Adobe/Photoshop/JavaScript/2.%20Photomerge/How%20to%20Use?d=wb7269645df274515af652f803209ad10&amp;csf=1&amp;web=1&amp;e=DbNm5I</url_howto>
 		</app>
 		<app id="Batch Stack Images per Folder">
 			<version>1.0.0</version>
