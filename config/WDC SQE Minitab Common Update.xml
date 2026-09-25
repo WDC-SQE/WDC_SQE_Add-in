@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<update manifestVersion="1" manifestDate="2026-09-24">
+<update manifestVersion="1" manifestDate="2026-09-25">
 	<apps>
 		<app id="WDC_SQE_Minitab">
-			<version>1.0.0.1</version>
+			<version>1.0.0.0</version>
 			<url_app>https://sharedspace.sharepoint.com/sites/NakazawaMinitab/Shared%20Documents/1.%20Add-in</url_app>
 			<url_tpl></url_tpl>
 			<url_howto>https://sharedspace.sharepoint.com/sites/NakazawaMinitab/Shared%20Documents/2.%20How-to</url_howto>
