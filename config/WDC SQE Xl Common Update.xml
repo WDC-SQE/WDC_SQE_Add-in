@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<update manifestVersion="1" manifestDate="2026-01-19">
+<update manifestVersion="1" manifestDate="2026-10-07">
 	<apps>
 		<app id="WDC_SQE_Type_Library">
-			<version>1.4.0.2</version>
+			<version>1.4.0.3</version>
 			<url_app>https://sharedspace.sharepoint.com/sites/WDCSQEUser-DefinedExcelFunction</url_app>
 			<url_tpl></url_tpl>
 			<url_howto>https://sharedspace.sharepoint.com/sites/WDCSQEUser-DefinedExcelFunction</url_howto>
