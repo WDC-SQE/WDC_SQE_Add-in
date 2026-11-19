@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<update manifestVersion="1" manifestDate="2026-11-19">
+	<apps>
+		<app id="Ramp Dimension Behavior Mode Analysis">
+			<version>0.5.0</version>
+			<url_app></url_app>
+			<url_tpl></url_tpl>
+			<url_howto></url_howto>
+		</app>
+	</apps>
+</update>
